@@ -150,8 +150,9 @@ p {
 }
 
 .header__decor-text--two {
-  left: 0;
+  left: 256px;
   z-index: 4;
+  bottom: 0;
 }
 
 .header__decor-text--three {
@@ -164,3 +165,4 @@ p {
   font-style: italic;
   text-align: center;
 }
+
